@@ -2,7 +2,7 @@
 
 Flutter TODO List
 
-![Ekran Görüntüsü - 2024-07-20 22-24-28](https://github.com/user-attachments/assets/4fe4ddff-6a10-4799-85f8-f40f8a63e948)
+![Ekran Görüntüsü - 2024-07-23 02-31-55](https://github.com/user-attachments/assets/5b5f3af8-5487-4137-bf40-553977b404c1)
 
 
 ## Getting Started
