@@ -1,6 +1,9 @@
 # todo_list
 
-A new Flutter project.
+Flutter TODO List
+
+![Ekran Görüntüsü - 2024-07-20 22-24-28](https://github.com/user-attachments/assets/4fe4ddff-6a10-4799-85f8-f40f8a63e948)
+
 
 ## Getting Started
 
